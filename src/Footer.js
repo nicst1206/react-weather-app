@@ -7,11 +7,14 @@ export default function Footer() {
       <footer>
         <p>
           This project was coded by
-          <a href="#" target="_blank">
+          <a href="#" target="_blank" rel="noreferrer">
             Nicole Stoewer-Rust
           </a>{" "}
           and is
-          <a href="#" target="_blank">
+          <a
+            href="https://github.com/nicst1206/react-weather-app"
+            target="_blank"
+          >
             {" "}
             on GitHub
           </a>{" "}
